@@ -1,0 +1,28 @@
+#video{margin-left: 20%;
+    margin-right: 20%;    
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 500px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDicvh5 , .travel_mainDiv p {
+    margin-left: 20px;
+}
